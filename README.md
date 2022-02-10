@@ -1,6 +1,8 @@
 # Cards
 
-**TODO: Add description**
+
+A basic Card Deck simulator. Demonstrates modules, structs, writing functions and generating documentation.
+From a Udemy course.
 
 ## Installation
 
